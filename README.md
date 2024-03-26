@@ -1,0 +1,1 @@
+Proje Özellikleri: Klavyeden girilen isim, yazı, rakam vb gibi inputları bir dizi içine alın ve bunları döngülerle ekrana yazdırın. Klavyeden her girildiğinde, input girişleriniz bitti mi diye bir soru sorun. Bittiyse girilen değerleri döngüde yazdırın. Bitmediyse klavyeden girmeye devam etmeliyiz. Klavyeden girdiğimiz inputları for, while ve foreach döngüleriyle ekrana yazın.
